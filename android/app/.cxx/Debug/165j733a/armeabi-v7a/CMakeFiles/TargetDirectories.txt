@@ -1,0 +1,2 @@
+C:/Users/Harsh/khelo/khelo/android/app/.cxx/Debug/165j733a/armeabi-v7a/CMakeFiles/edit_cache.dir
+C:/Users/Harsh/khelo/khelo/android/app/.cxx/Debug/165j733a/armeabi-v7a/CMakeFiles/rebuild_cache.dir

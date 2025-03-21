@@ -1,6 +1,6 @@
-# khelo
+# cricrecord
 
-The `khelo` module is the core UI component of the Khelo app. It contains the main Flutter application implementation and native integrations. This module handles the presentation layer and user interactions.
+The `cricrecord` module is the core UI component of the Khelo app. It contains the main Flutter application implementation and native integrations. This module handles the presentation layer and user interactions.
 
 ## Key Features
 
